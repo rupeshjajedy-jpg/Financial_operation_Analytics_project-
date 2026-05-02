@@ -37,8 +37,6 @@ financial-operations-analytics/
 
 * financial_analytics.py → Main Python script
 
-* EXECUTIVE_SUMMARY_FINANCIAL.txt → Business report
-
 * kpi_summary.txt → KPI summary
 
 * at_risk_customers.csv → High churn customers
@@ -49,7 +47,7 @@ financial-operations-analytics/
 
 * README.md
 
-* requirements.txt
+
 
 ---
 
