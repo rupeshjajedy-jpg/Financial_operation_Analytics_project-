@@ -35,7 +35,7 @@ financial-operations-analytics/
 
 * monthly_revenue.csv → Monthly revenue data
 
-* financial_analytics.py → Main Python script
+* Financial_operation_Analytics_project.ipynb → Main Python script
 
 * kpi_summary.txt → KPI summary
 
